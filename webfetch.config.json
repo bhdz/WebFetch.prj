@@ -1,0 +1,6 @@
+{
+    "fetch_dir": "/home/boril/Desktop/Tests/webfetch/fetch",
+    "archive_dir": "/home/boril/Desktop/Tests/webfetch/archive",
+    "input_dir": "/home/boril/Desktop/Tests/webfetch/input",
+    "control_dir": "/home/boril/Desktop/Tests/webfetch/control",
+}
